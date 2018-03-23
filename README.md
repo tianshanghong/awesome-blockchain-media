@@ -140,6 +140,7 @@
 * [老猫 EOS 超级节点](http://www.eoslaomao.com)
 * [LO 开发者社区](http://bbs.bocheninc.com)
 * [IBM developerWorks](https://www.ibm.com/developerworks/community/groups/service/html/communityview?communityUuid=3302cc3b-074e-44da-90b1-5055f1dc0d9c&amp;lang=zh)
+* [xmr-stak](https://www.xmr-stak.com/)
 
 ## 媒体
 
