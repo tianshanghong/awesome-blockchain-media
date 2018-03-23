@@ -125,7 +125,7 @@
 * [区块链技术社区 | Hi Block](http://hiblock.net)
 * [GXS Community](https://forum.gxb.io)
 * [铂链 Bottos 社区](https://www.botfans.org)
-* [区块链技术指北 | Chain One](https://chainone.xyz)
+* [区块链技术指北 | ChainONE](https://chainone.xyz)
 * [DNAproject Forum](https://forum.dnaproject.org)
 * [DMB | 币须达摩](http://dmb.top)
 * [比原链爱好者](http://www.btmfans.org)
