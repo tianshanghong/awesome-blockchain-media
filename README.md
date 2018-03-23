@@ -54,6 +54,8 @@
 * [代码家](https://daimajia.com)
 * [陌生的山不知名的花](https://mshk.top)
 * [猿哥的区块链博客](http://yuanlian.io)
+* [Blockchain Security - 区块链安全](https://blockchain-sec.com)
+* [BLOCKCHAIN SECURITY LAB](http://www.sec-lab.io)
 
 ## 资讯
 
